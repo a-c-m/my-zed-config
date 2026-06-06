@@ -1,0 +1,9 @@
+// Zed tasks. See https://zed.dev/docs/tasks
+[
+  {
+    "label": "Open in Typora",
+    "command": "open -a Typora \"$ZED_FILE\"",
+    "reveal": "never",
+    "allow_concurrent_runs": true,
+  },
+]
